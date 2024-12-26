@@ -5,24 +5,19 @@ using namespace std;
 
 vector<int> solution(vector<string> wallpaper) {
     vector<int> answer;
-    int min_row = 51, max_row = -1, min_col = 51, max_col = -1;
+    int xy[4] = {51,51,-1,-1};
     for(int i = 0; i < wallpaper.size(); i++){
         for(int j = 0; j < wallpaper[0].size(); j++){
             if(wallpaper[i][j] == '#'){
-                if(i>=max_col)
-                    max_col = i;
-                if(i<=min_col)
-                    min_col = i;
-                if(j>=max_row)
-                    max_row = j;
-                if(j<=min_row)
-                    min_row = j;
+                xy[0] = min(i,xy[0]);
+                xy[1] = min(j,xy[1]);
+                xy[2] = max(i+1,xy[2]);
+                xy[3] = max(j+1,xy[3]);
             }
         }
     }
-    answer.push_back(min_col);
-    answer.push_back(min_row);
-    answer.push_back(max_col+1);
-    answer.push_back(max_row+1);
+    for(int i = 0; i < 4; i++)
+        answer.push_back(xy[i]);
+    
     return answer;
 }
