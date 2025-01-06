@@ -28,17 +28,34 @@
 
 ## 3주차
 ## 01월 06일
-- []() - **백준 (Baekjoon)**
-- []() - **프로그래머스 (Programmers)**
+- [2941번 (크로아티아 알파벳) - silver5](https://www.acmicpc.net/problem/2941) - **백준 (Baekjoon)**
+- [추억 점수 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/176963) - **프로그래머스 (Programmers)**
 ## 01월 07일
-- []() - **백준 (Baekjoon)**
-- []() - **프로그래머스 (Programmers)**
+- [1018번 (체스판 다시 칠하기) - silver4]() - **백준 (Baekjoon)**
+- [[PCCP 기출문제]1번/붕대 감기 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/250137) - **프로그래머스 (Programmers)**
 ## 01월 08일
-- []() - **백준 (Baekjoon)**
-- []() - **프로그래머스 (Programmers)**
+- [10816번 (숫자 카드2) - silver4](https://www.acmicpc.net/problem/10816) - **백준 (Baekjoon)**
+- [덧칠하기 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/161989) - **프로그래머스 (Programmers)**
 ## 01월 09일
+- [11478번 (서로 다른 부분 문자열의 개수) - silver3](https://www.acmicpc.net/problem/11478) - **백준 (Baekjoon)**
+- [광물 캐기 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/172927) - **프로그래머스 (Programmers)**
+## 01월 10일
+- [9935번 (문자열 폭발) - gold4](https://www.acmicpc.net/problem/9935) - **백준 (Baekjoon)**
+- [리코쳇 로봇 level2](https://school.programmers.co.kr/learn/courses/30/lessons/169199) - **프로그래머스 (Programmers)**
+
+## 4주차
+## 01월 13일
 - []() - **백준 (Baekjoon)**
 - []() - **프로그래머스 (Programmers)**
-## 01월 10일
+## 01월 14일
+- []() - **백준 (Baekjoon)**
+- []() - **프로그래머스 (Programmers)**
+## 01월 15일
+- []() - **백준 (Baekjoon)**
+- []() - **프로그래머스 (Programmers)**
+## 01월 16일
+- []() - **백준 (Baekjoon)**
+- []() - **프로그래머스 (Programmers)**
+## 01월 17일
 - []() - **백준 (Baekjoon)**
 - []() - **프로그래머스 (Programmers)**
