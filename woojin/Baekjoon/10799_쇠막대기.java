@@ -25,7 +25,6 @@ class cal10799{
                     sum+=stack.size();
                 }
             }
-            System.out.println((i+1)+"번째 sum은 "+sum);
         }
         System.out.println(sum);
     }
