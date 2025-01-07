@@ -31,7 +31,7 @@
 - [2941번 (크로아티아 알파벳) - silver5](https://www.acmicpc.net/problem/2941) - **백준 (Baekjoon)**
 - [추억 점수 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/176963) - **프로그래머스 (Programmers)**
 ## 01월 07일
-- [1018번 (체스판 다시 칠하기) - silver4]() - **백준 (Baekjoon)**
+- [1018번 (체스판 다시 칠하기) - silver4](https://www.acmicpc.net/problem/1018) - **백준 (Baekjoon)**
 - [[PCCP 기출문제]1번/붕대 감기 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/250137) - **프로그래머스 (Programmers)**
 ## 01월 08일
 - [10816번 (숫자 카드2) - silver4](https://www.acmicpc.net/problem/10816) - **백준 (Baekjoon)**
