@@ -1,14 +1,18 @@
 # 문제 목록 (Problem List)
+<details>
+  <summary>1주차</summary>
 
-## 1주차
 ## 12월 26일
 - [2108번 (통계학) - silver3](https://www.acmicpc.net/problem/2108) - **백준 (Baekjoon)**
 - [바탕화면 정리 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/161990) - **프로그래머스 (Programmers)**
 ## 12월 27일
 - [1181번 (단어정렬) - silver5](https://www.acmicpc.net/problem/1181) - **백준 (Baekjoon)**
 - [개인정보 수집 유효기간 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/150370) - **프로그래머스 (Programmers)**
+</details>
 
-## 2주차
+<details>
+  <summary>2주차</summary>
+
 ## 12월 30일
 - [2563번 (색종이) - silver5](https://www.acmicpc.net/problem/2563) - **백준 (Baekjoon)**
 - [가장 가까운 글자 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/142086) - **프로그래머스 (Programmers)**
@@ -24,9 +28,11 @@
 ## 01월 03일
 - [10799번 (쇠막대기) - silver2](https://www.acmicpc.net/problem/10799) - **백준 (Baekjoon)**
 - [다리를 지나는 트럭 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/42583) - **프로그래머스 (Programmers)**
+</details>
 
+<details>
+  <summary>3주차</summary>
 
-## 3주차
 ## 01월 06일
 - [2941번 (크로아티아 알파벳) - silver5](https://www.acmicpc.net/problem/2941) - **백준 (Baekjoon)**
 - [추억 점수 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/176963) - **프로그래머스 (Programmers)**
@@ -42,8 +48,11 @@
 ## 01월 10일
 - [9935번 (문자열 폭발) - gold4](https://www.acmicpc.net/problem/9935) - **백준 (Baekjoon)**
 - [리코쳇 로봇 level2](https://school.programmers.co.kr/learn/courses/30/lessons/169199) - **프로그래머스 (Programmers)**
+</details>
 
-## 4주차
+<details>
+  <summary>4주차</summary>
+
 ## 01월 13일
 - []() - **백준 (Baekjoon)**
 - []() - **프로그래머스 (Programmers)**
@@ -59,3 +68,4 @@
 ## 01월 17일
 - []() - **백준 (Baekjoon)**
 - []() - **프로그래머스 (Programmers)**
+</details>
