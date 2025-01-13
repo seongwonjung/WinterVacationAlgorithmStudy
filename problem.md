@@ -52,20 +52,40 @@
 
 <details>
   <summary>4주차</summary>
-
+  
 ## 01월 13일
-- []() - **백준 (Baekjoon)**
-- []() - **프로그래머스 (Programmers)**
+- [24479번 알고리즘 수업 - 깊이 우선 탐색 1 - silver2](https://www.acmicpc.net/problem/24479) - **백준 (Baekjoon)**
+- [타겟 넘버 - level2](https://www.acmicpc.net/problem/2606) - **프로그래머스 (Programmers)**
 ## 01월 14일
-- []() - **백준 (Baekjoon)**
-- []() - **프로그래머스 (Programmers)**
+- [1260번 (DFS와 BFS) - silver2](https://www.acmicpc.net/problem/1260) - **백준 (Baekjoon)**
+- [게임 맵 최단거리 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/1844) - **프로그래머스 (Programmers)**
 ## 01월 15일
-- []() - **백준 (Baekjoon)**
-- []() - **프로그래머스 (Programmers)**
+- [2606번 (바이러스) - silver3](https://www.acmicpc.net/problem/2606) - **백준 (Baekjoon)**
+- [단어 변환 - level3](https://school.programmers.co.kr/learn/courses/30/lessons/43163) - **프로그래머스 (Programmers)**
 ## 01월 16일
+- [1012번 유기농 배추 - silver2](https://www.acmicpc.net/problem/1012) - **백준 (Baekjoon)**
+- [여행경로 - level3](https://school.programmers.co.kr/learn/courses/30/lessons/43164) - **프로그래머스 (Programmers)**
+## 01월 17일
+- [2667번 단지번호붙이기 - silver1](https://www.acmicpc.net/problem/2667) - **백준 (Baekjoon)**
+- [네트워크 - level3](https://school.programmers.co.kr/learn/courses/30/lessons/43162) - **프로그래머스 (Programmers)**
+</details>
+
+<details>
+  <summary>5주차</summary>
+
+## 01월 20일
 - []() - **백준 (Baekjoon)**
 - []() - **프로그래머스 (Programmers)**
-## 01월 17일
+## 01월 21일
+- []() - **백준 (Baekjoon)**
+- []() - **프로그래머스 (Programmers)**
+## 01월 22일
+- []() - **백준 (Baekjoon)**
+- []() - **프로그래머스 (Programmers)**
+## 01월 23일
+- []() - **백준 (Baekjoon)**
+- []() - **프로그래머스 (Programmers)**
+## 01월 24일
 - []() - **백준 (Baekjoon)**
 - []() - **프로그래머스 (Programmers)**
 </details>
