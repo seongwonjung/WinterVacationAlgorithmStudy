@@ -55,7 +55,7 @@
   
 ## 01월 13일
 - [24479번 알고리즘 수업 - 깊이 우선 탐색 1 - silver2](https://www.acmicpc.net/problem/24479) - **백준 (Baekjoon)**
-- [타겟 넘버 - level2](https://www.acmicpc.net/problem/2606) - **프로그래머스 (Programmers)**
+- [타겟 넘버 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/43165) - **프로그래머스 (Programmers)**
 ## 01월 14일
 - [1260번 (DFS와 BFS) - silver2](https://www.acmicpc.net/problem/1260) - **백준 (Baekjoon)**
 - [게임 맵 최단거리 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/1844) - **프로그래머스 (Programmers)**
