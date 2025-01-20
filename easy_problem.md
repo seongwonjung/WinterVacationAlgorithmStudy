@@ -1,4 +1,6 @@
-## 3주차
+<details>
+  <summary>3주차</summary>
+  
 ## 01월 06일
 - [문자열 밀기 - level0](https://school.programmers.co.kr/learn/courses/30/lessons/120921) - **프로그래머스 (Programmers)**
 - [주사위 게임3 - level0](https://school.programmers.co.kr/learn/courses/30/lessons/181916) - **프로그래머스 (Programmers)**
@@ -17,8 +19,10 @@
 - [등수 매기기 - level0](https://school.programmers.co.kr/learn/courses/30/lessons/120882) - **프로그래머스 (Programmers)**
 ## 01월 10일
 - [추억 점수 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/176963) - **프로그래머스 (Programmers)**
-
-## 4주차
+</details>
+<details>
+  <summary>4주차</summary>
+  
 ## 01월 13일
 - [옹알이(1) - level0](https://school.programmers.co.kr/learn/courses/30/lessons/120956) - **프로그래머스 (Programmers)**
 ## 01월 14일
@@ -29,3 +33,19 @@
 - [k번째수 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/42748) - **프로그래머스 (Programmers)**
 ## 01월 17일
 - [의상 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/42578) - **프로그래머스 (Programmers)**
+</details>
+
+<details>
+  <summary>5주차</summary>
+
+## 01월 20일
+- [최소직사각형 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/86491) - **프로그래머스 (Programmers)**
+## 01월 21일
+- [모의고사 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/42840) - **프로그래머스 (Programmers)**
+## 01월 22일
+- [카펫 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/42842) - **프로그래머스 (Programmers)**
+## 01월 23일
+- [문자열을 정수로 바꾸기 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/12925) - **프로그래머스 (Programmers)**
+## 01월 24일
+- [k번째수 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/42748) - **프로그래머스 (Programmers)**
+</details>
