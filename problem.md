@@ -74,18 +74,13 @@
   <summary>5주차</summary>
 
 ## 01월 20일
-- []() - **백준 (Baekjoon)**
-- []() - **프로그래머스 (Programmers)**
+- [포켓몬 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/1845) - **프로그래머스 (Programmers)**
 ## 01월 21일
-- []() - **백준 (Baekjoon)**
-- []() - **프로그래머스 (Programmers)**
+- [완주하지 못한 선수 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/42576) - **프로그래머스 (Programmers)**
 ## 01월 22일
-- []() - **백준 (Baekjoon)**
-- []() - **프로그래머스 (Programmers)**
+- [k번째수 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/42748) - **프로그래머스 (Programmers)**
 ## 01월 23일
-- []() - **백준 (Baekjoon)**
-- []() - **프로그래머스 (Programmers)**
+- [가장 큰 수 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/42746) - **프로그래머스 (Programmers)**
 ## 01월 24일
-- []() - **백준 (Baekjoon)**
-- []() - **프로그래머스 (Programmers)**
+- [모음 사전 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/84512) - **프로그래머스 (Programmers)**
 </details>
