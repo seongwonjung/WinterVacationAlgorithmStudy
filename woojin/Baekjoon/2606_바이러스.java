@@ -37,7 +37,7 @@ class cal2606 {
         
         virus(1);
 
-        System.out.println(cnt-1);
+        System.out.println(cnt);
     }
 
     public static void virus(int num) {
