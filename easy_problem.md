@@ -49,3 +49,39 @@
 ## 01월 24일
 - [k번째수 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/42748) - **프로그래머스 (Programmers)**
 </details>
+
+<details>
+  <summary>6주차</summary>
+
+## 01월 27일
+- [10807번 (개수 세기) - bronze5](https://www.acmicpc.net/problem/10807) - **백준 (Baekjoon)**
+- [10871번 (X보다 작은 수) - bronze2](https://www.acmicpc.net/problem/10871) - **백준 (Baekjoon)**
+## 01월 28일
+- [1075번 (나누기) - bronze2](https://www.acmicpc.net/problem/1075) - **백준 (Baekjoon)**
+- [2562번 (최댓값) - bronze3](https://www.acmicpc.net/problem/2562) - **백준 (Baekjoon)**
+## 01월 29일
+- [10810번 (공 넣기) - bronze3](https://www.acmicpc.net/problem/10810) - **백준 (Baekjoon)**
+- [10813번 (공 바꾸기) - bronze2](https://www.acmicpc.net/problem/10813) - **백준 (Baekjoon)**
+## 01월 30일
+- [5565번 (영수증) - bronze3](https://www.acmicpc.net/problem/5565) - **백준 (Baekjoon)**
+- [5618번 (공약수) - bronze2](https://www.acmicpc.net/problem/5618) - **백준 (Baekjoon)**
+## 01월 31일
+- [11943번 (파일 옮기기) - bronze4](https://www.acmicpc.net/problem/11943) - **백준 (Baekjoon)**
+- [2525번 (오븐 시계) - bronze3](https://www.acmicpc.net/problem/2525) - **백준 (Baekjoon)**
+</details>
+
+<details>
+  <summary>7주차</summary>
+
+## 02월 03일
+
+## 02월 04일
+
+## 02월 05일
+
+## 02월 06일
+
+## 02월 07일
+
+
+</details>
