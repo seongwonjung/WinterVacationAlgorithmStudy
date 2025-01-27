@@ -57,7 +57,7 @@
 - [10807번 (개수 세기) - bronze5](https://www.acmicpc.net/problem/10807) - **백준 (Baekjoon)**
 - [10871번 (X보다 작은 수) - bronze2](https://www.acmicpc.net/problem/10871) - **백준 (Baekjoon)**
 ## 01월 28일
-- [1075번 (나누기) - bronze2](https://www.acmicpc.net/problem/1075) - **백준 (Baekjoon)**
+- [2675번 (문자열 반복) - bronze2](https://www.acmicpc.net/problem/2675) - **백준 (Baekjoon)**
 - [2562번 (최댓값) - bronze3](https://www.acmicpc.net/problem/2562) - **백준 (Baekjoon)**
 ## 01월 29일
 - [10810번 (공 넣기) - bronze3](https://www.acmicpc.net/problem/10810) - **백준 (Baekjoon)**
