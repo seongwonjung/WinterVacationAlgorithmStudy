@@ -10,7 +10,7 @@ class cal1075 {
         int F = sc.nextInt();
         int x = N%100;
         int result = N-x;
-
+    
         sc.close();
 
         while(result%F!=0){
