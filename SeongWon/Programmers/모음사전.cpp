@@ -15,10 +15,9 @@ void dfs(int depth, string word, string str){
         return;
     }
     for(int i = 0; i < 5; i++){
-        string tmp = str + s[i];
         if(isfinish)
             return;
-        dfs(depth+1, word, tmp);
+        dfs(depth+1, word, str + s[i]);
     }
 }
 int solution(string word) {
