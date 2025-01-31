@@ -97,7 +97,7 @@
 ## 01월 30일
 - [네트워크 - level3](https://school.programmers.co.kr/learn/courses/30/lessons/43162) - **프로그래머스 (Programmers)**
 ## 01월 31일
-- [11729번 (하노이 탑 이동 순서) - gold5](https://www.acmicpc.net/problem/11729) - **백준 (Baekjoon)**
+- [소수 찾기 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/42839) - **프로그래머스 (Programmers)**
 </details>
 
 <details>
