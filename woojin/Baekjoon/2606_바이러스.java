@@ -45,7 +45,7 @@ class cal2606 {
 
         for (int i : list.get(num)) {
             if (!infection[i]) {
-                cnt++;
+                cnt++;  
                 virus(i);
             }
         }
