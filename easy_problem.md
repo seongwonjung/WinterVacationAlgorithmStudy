@@ -74,14 +74,32 @@
   <summary>7주차</summary>
 
 ## 02월 03일
-
+- [자릿수 더하기 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/12931) - **프로그래머스 (Programmers)**
+- [문자열을 정수로 바꾸기 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/12925) - **프로그래머스 (Programmers)**
 ## 02월 04일
-
+- [최대공약수와 최소공배수 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/12940) - **프로그래머스 (Programmers)**
+- [크기와 작은 부분 문자열 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/147355) - **프로그래머스 (Programmers)**
 ## 02월 05일
-
+- [예산 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/12982) - **프로그래머스 (Programmers)**
 ## 02월 06일
-
+- [이상한 문자 만들기 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/12930) - **프로그래머스 (Programmers)**
 ## 02월 07일
+- [시저 암호호 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/12926) - **프로그래머스 (Programmers)**
+
+</details>
+
+<details>
+  <summary>8주차</summary>
+
+## 02월 10일
+
+## 02월 11일
+
+## 02월 12일
+
+## 02월 13일
+
+## 02월 14일
 
 
 </details>

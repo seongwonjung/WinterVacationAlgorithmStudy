@@ -104,14 +104,30 @@
   <summary>7주차</summary>
 
 ## 02월 03일
-
+- [10815번 (숫자 카드) - silver5](https://www.acmicpc.net/problem/10815) - **백준 (Baekjoon)**
 ## 02월 04일
-
+- [10816번 (숫자 카드2) - silver5](https://www.acmicpc.net/problem/10816) - **백준 (Baekjoon)**
 ## 02월 05일
-
+- [14425번 (문자열 집합) - silver4](https://www.acmicpc.net/problem/11425) - **백준 (Baekjoon)**
 ## 02월 06일
-
+- [1620번 (나는야 포켓몬 마스터 이다솜) - silver4](https://www.acmicpc.net/problem/1620) - **백준 (Baekjoon)**
 ## 02월 07일
+- [주식가격 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/42584) - **프로그래머스 (Programmers)**
+
+</details>
+
+<details>
+  <summary>8주차</summary>
+
+## 02월 10일
+
+## 02월 11일
+
+## 02월 12일
+
+## 02월 13일
+
+## 02월 14일
 
 
 </details>
