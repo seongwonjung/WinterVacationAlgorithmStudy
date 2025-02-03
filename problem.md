@@ -108,7 +108,7 @@
 ## 02월 04일
 - [10816번 (숫자 카드2) - silver5](https://www.acmicpc.net/problem/10816) - **백준 (Baekjoon)**
 ## 02월 05일
-- [14425번 (문자열 집합) - silver4](https://www.acmicpc.net/problem/11425) - **백준 (Baekjoon)**
+- [14425번 (문자열 집합) - silver4](https://www.acmicpc.net/problem/14425) - **백준 (Baekjoon)**
 ## 02월 06일
 - [1620번 (나는야 포켓몬 마스터 이다솜) - silver4](https://www.acmicpc.net/problem/1620) - **백준 (Baekjoon)**
 ## 02월 07일
