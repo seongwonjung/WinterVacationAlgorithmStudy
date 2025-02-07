@@ -106,7 +106,7 @@
 ## 02월 03일
 - [10815번 (숫자 카드) - silver5](https://www.acmicpc.net/problem/10815) - **백준 (Baekjoon)**
 ## 02월 04일
-- [10816번 (숫자 카드2) - silver5](https://www.acmicpc.net/problem/10816) - **백준 (Baekjoon)**
+- [큰 수 만들기 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/42883) - **프로그래머스 (Programmers)**
 ## 02월 05일
 - [14425번 (문자열 집합) - silver4](https://www.acmicpc.net/problem/14425) - **백준 (Baekjoon)**
 ## 02월 06일
