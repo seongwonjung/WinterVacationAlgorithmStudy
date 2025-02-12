@@ -120,14 +120,14 @@
   <summary>8주차</summary>
 
 ## 02월 10일
-
+- [동영상 재생기 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/340213) - **프로그래머스 (Programmers)**
 ## 02월 11일
-
+- [유연근무제 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/388351) - **프로그래머스 (Programmers)**
 ## 02월 12일
-
+- [비밀 코드 해독 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/388352) - **프로그래머스 (Programmers)**
 ## 02월 13일
-
+- [지게차와 크레인 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/388353) - **프로그래머스 (Programmers)**
 ## 02월 14일
-
+-[퍼즐게임 챌린지 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/340212) - **프로그래머스 (Programmers)**
 
 </details>
