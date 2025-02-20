@@ -131,3 +131,19 @@
 -[퍼즐게임 챌린지 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/340212) - **프로그래머스 (Programmers)**
 
 </details>
+
+<details>
+  <summary>9주차</summary>
+
+## 02월 17일
+- [택배 상자 꺼내기 - level1](https://school.programmers.co.kr/learn/courses/30/lessons/389478) - **프로그래머스 (Programmers)**
+## 02월 18일
+- [서버 증설 개수 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/389479) - **프로그래머스 (Programmers)**
+## 02월 19일
+- [완전범죄 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/389480) - **프로그래머스 (Programmers)**
+## 02월 20일
+- [충돌 위험 찾기 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/340211) - **프로그래머스 (Programmers)**
+## 02월 21일
+-[리코쳇 로봇 - level2](https://school.programmers.co.kr/learn/courses/30/lessons/169199) - **프로그래머스 (Programmers)**
+
+</details>
