@@ -156,6 +156,6 @@
 ## 03월 20일
 - [18870번 (좌표 압축) - silver2](https://www.acmicpc.net/problem/18870) - **백준 (Baekjoon)**
 ## 03월 21일
-- [ - ](https://www.acmicpc.net/problem/1764) - **프로그래머스 (Programmers)**
+- [1074번 (Z) - gold5](https://www.acmicpc.net/problem/1074) - **백준 (Baekjoon)**
 
 </details>
