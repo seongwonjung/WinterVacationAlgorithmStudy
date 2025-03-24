@@ -15,3 +15,4 @@ public class SumOfDigit {
         bf.close();
     }
 }
+    
