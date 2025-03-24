@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class SumOfDigit {
+class SumOfDigit {
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(bf.readLine());
