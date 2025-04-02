@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc0053e-25a8-4e6e-b7b1-f3d9fe242b18" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Sandglass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Star_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sksnrl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6fc0053e-25a8-4e6e-b7b1-f3d9fe242b18" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1743512545247</updated>
       <workItem from="1743512546360" duration="94000" />
-      <workItem from="1743512726290" duration="3519000" />
+      <workItem from="1743512726290" duration="3870000" />
     </task>
     <servers />
   </component>
