@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fc0053e-25a8-4e6e-b7b1-f3d9fe242b18" name="변경" comment="" />
+    <list default="true" id="6fc0053e-25a8-4e6e-b7b1-f3d9fe242b18" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/Star9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2439_별 찍기-2.java" beforeDir="false" afterPath="$PROJECT_DIR$/2439_별 찍기-2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +48,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Star9.executor": "Run",
     "애플리케이션.Star_2.executor": "Run",
     "애플리케이션.sksnrl.executor": "Run"
   }
@@ -66,6 +71,7 @@
       <updated>1743512545247</updated>
       <workItem from="1743512546360" duration="94000" />
       <workItem from="1743512726290" duration="3870000" />
+      <workItem from="1743560719887" duration="5550000" />
     </task>
     <servers />
   </component>
