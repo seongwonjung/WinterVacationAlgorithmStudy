@@ -14,3 +14,4 @@ class Number_of_verifications {
         System.out.println(Number_of_verifications % 10);
     }
 }
+
