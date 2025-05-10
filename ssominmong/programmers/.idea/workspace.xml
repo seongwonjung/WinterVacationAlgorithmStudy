@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d245b859-d4ca-45a9-9f12-9a70de2a6406" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/../Baekjoon/src/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baekjoon/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baekjoon/src/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baekjoon/src/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baekjoon/src/Baekjoon.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +40,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kimmi/Desktop/CodingTest/WinterVacationAlgorithmStudy/ssominmong/Baekjoon/src",
+    "last_opened_file_path": "C:/Users/kimmi/Desktop/CodingTest/WinterVacationAlgorithmStudy/ssominmong/programmers",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -120,6 +115,7 @@
       <workItem from="1743512114912" duration="20000" />
       <workItem from="1743512159013" duration="63000" />
       <workItem from="1743512276923" duration="89000" />
+      <workItem from="1746871622869" duration="584000" />
     </task>
     <servers />
   </component>
